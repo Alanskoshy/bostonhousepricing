@@ -13,3 +13,9 @@ Create a new enviornment
 ```
 conda create -p venv python==3.7 -y
 ```
+
+Project Approch:
+  1. Data Preprocessing
+  2. Model Creating
+  3. Website Creating
+  4. Deploying
